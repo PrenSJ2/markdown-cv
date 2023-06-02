@@ -1,170 +1,145 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Sebastian Prentice
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:prentice.seb@gmail.com
+  text: prentice.seb@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://seb.onlineolive.tech
+  text: seb.onlineolive.tech
 ---
 
-# Wode **Ni**
-
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
+# Sebastian **Prentice**
 
 {% include cv-contact.html %}
 
+## Summary
+
+Nerd with 6+ years of self-training in Front End and 3 in Backend. Received a First Class for BSc Computing (Hons) degree at The University of Buckingham, and studied Computer Science at Santa Clara University.
+
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University of Buckingham** `2020 - 2022.12`
 
-```
-Pittsburgh, PA
-```
+BSc Computing (Hons)
+Grade: First Class Honors
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+### **Santa Clara University** `2018 - 2020`
 
-### **Columbia University** `2016.9 - 2018.5`
+Undergraduate Computer Science, Computer Engineering
 
-```
-New York, NY
-```
+International Student Orientation Leader, Santa Clara University Touring Side Junior Chair.
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+### **Radley College** `2013 - 2018`
 
-### **Dickinson College** `2013.9 - 2016.5`
+A-Level: Economics, Design & Technology: Product Design
 
-```
-Carlisle, PA
-```
+### **Ichinomya High School (Japan)** `2016.10 - 2016.10`
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+Exchange
 
-## Publications
+### **Cothill House** `2010 - 2013`
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+Common Entrance: Awarded Headmasters Prize For Computer Science Scholarship
 
+### **Maidwell Hall** `2006 - 2010`
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
-
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
----
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
 ## Experience
-### **Apple** `2022.5 - 2022.9`
 
-_Research Intern - Machine Intelligence_<br>
+### **TutorCruncher, Junior Developer** `2022.10 - CURRENT`
 
-### **Microsoft Research** `2020.5 - 2020.8`
+- Working on all areas of 300,000 line codebase
+- DevOps, creating GitHub actions to test and auto-deploy
+- Creating and performing unit tests
+- Maintaining development documentation
+- Working with customer facing teams
 
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+### **Purple Hill Handmade, Developer & Technology Specialist** `2020.3 - CURRENT`
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+- Creating and managing website on Wordpress
+- Managing stock with woocommerce 
+- Editing content with Adobe Creative Cloud
+- Maintaining website security and performance
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### **Airbnb, Airbnb Host - The Coach House** `2018.9 - CURRENT`
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+- Super Host
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### **Dustonmill, Web Developer & Designer** `2017.6 - CURRENT`
 
-## Mentoring
+- Creating an online presence, website.
+- Maintaining website.
+- Revamp of the website to include new mobile user-focused design.
+- Creating content, taking photos.
 
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
+### **Freelance Web Designer & Developer, Online Olive** `2018.3 - CURRENT`
 
----
+- Creating websites for small businesses.
+- Creating content, taking photos.
+- Maintaining websites.
+- Creating and managing social media accounts.
+- Creating and managing online stores.
+- 5 consistent clients to date.
+- Mobile user-focused design.
+- SEO.
+- Mobile App Development.
 
-## Honors & Awards
+### **Manager, Village Shop & Post Office** `2020.11 - 2021.6`
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+- Managing Blakesley village shop / post office.
+- Upgrading local network.
+- Automating processes.
 
-## Teaching
+### **Tech Intern, Reset MSM** `2020.9 - 2021.1`
 
-Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+- Moving early access users to the new database in preparation for the launch.
+- Helping migrate all server-side functions, databases, and hosting from Firebase to AWS with the goal of achieving a fully serverless architecture.
+- Designing UI aspects for iOS and AWS
 
+### **Web Administrator, SCU Ignatian Center** `2019.9 - 2020.3`
 
-## Service
+- Web Administrator for The Ignation Centre at Santa Clara 
+- Managing all Website content for the Ignatian Center website pages and programs.
+- Using TerminalFour CMS.
+- Creating custom pages beyond the limits of TerminalFour.
+- Using Adobe Suite to curate visual content.- Web Administrator for The Ignation Centre at Santa Clara - Managing all Website content for the Ignatian Center website pages and programs. - Using TerminalFour CMS. - Creating custom pages beyond the limits of TerminalFour. - Using Adobe Suite to curate visual content.
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2022` <br>
+### **Teacher, Tech Camp** `2018.7 - 2018.8`
 
-<!-- ### Footer
+- Running a class of 13 students aged 9-13
+- Teaching how to use CAD for laser cutters, 3D printers, and basic block coding. 
+- Learned how to teach and work with kids.
+- Learned how to communicate with parents.- Running a class of 13 students aged 9-13 - Teaching how to use CAD for laser cutters, 3D printers, and basic block coding. - Learned how to teach and work with kids. - Learned how to communicate with parents.
 
-Last updated: May 2013 -->
+### **Intern, Ocado Technology, Code for Life** `2018.6 - 2018.6`
+
+- Working with Code For Life initiative.
+- Initiative to teach children how to code.
+- Working with main website HTML & CSS
+- Working with game code in Python.
+
+## Certifications
+
+- Open Water Diver - PADI 1404UJ0310
+- Javascript - Sololearn 1024-21810800
+- Foundations of User Experience (UX) Design
+- CG DofE Gold Award - The Duke of Edinburgh's Award 1298966
+- React.js LinkedIn skill assessment
+- HTML LinkedIn skill assessment
+- Front-End Development LinkedIn skill assessment
+- Search Engine Optimization LinkedIn skill assessment
+- Adobe Photoshop LinkedIn skill assessment
+- Wordpress LinkedIn Skill Assessment
+
+## Skills
+
+- C#
+- Django
+- SQL
+- React.js
+- Communication
+- Project Management
+- DevOps
+- Python
+- CAD (Solidworks)
