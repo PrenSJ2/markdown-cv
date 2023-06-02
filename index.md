@@ -38,13 +38,6 @@ A-Level: Economics, Design & Technology: Product Design
 
 Exchange
 
-### **Cothill House** `2010 - 2013`
-
-Common Entrance: Awarded Headmasters Prize For Computer Science Scholarship
-
-### **Maidwell Hall** `2006 - 2010`
-
-
 ## Experience
 
 ### **TutorCruncher, Junior Developer** `2022.10 - CURRENT`
