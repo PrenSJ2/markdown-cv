@@ -84,6 +84,10 @@ Common Entrance: Awarded Headmasters Prize For Computer Science Scholarship
 
 ### **Maidwell Hall** `2006 - 2010`
 
+- Working with Code For Life initiative.
+- Initiative to teach children how to code.
+- Working with main website HTML & CSS
+- Working with game code in Python.
 
 ## Certifications
 
