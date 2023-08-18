@@ -5,8 +5,8 @@ email:
   url: mailto:prentice.seb@gmail.com
   text: prentice.seb@gmail.com
 homepage:
-  url: https://seb.onlineolive.tech
-  text: seb.onlineolive.tech
+  url: https://seb.onlineolive.xyz
+  text: seb.onlineolive.xyz
 ---
 
 # Sebastian **Prentice**
