@@ -15,7 +15,7 @@ homepage:
 
 ## Summary
 
-Nerd with 6+ years of self-training in Front End and 3 in Backend. Received a First Class for BSc Computing (Hons) degree at The University of Buckingham, and studied Computer Science at Santa Clara University.
+Tech enthusiast and seasoned developer with over 6 years of self-training in **Front End Development** and 3 years in **Backend Development**. Earned a First Class for BSc Computing (Hons) degree at The University of Buckingham. Adept in **Web development**, **Mobile app development**, and **UI/UX design**. Proficient in **Python**, **Flutter**, and **Javascript**.
 
 ## Education
 
@@ -23,12 +23,12 @@ Nerd with 6+ years of self-training in Front End and 3 in Backend. Received a Fi
 
 BSc Computing (Hons)
 Grade: First Class Honors
+- Specialized in **Software Development** and **Computer Engineering**.
 
 ### **Santa Clara University** `2018 - 2020`
 
 Undergraduate Computer Science, Computer Engineering
-
-International Student Orientation Leader, Santa Clara University Touring Side Junior Chair.
+- **International Student Orientation Leader**, Santa Clara University Touring Side Junior Chair.
 
 ### **Radley College** `2013 - 2018`
 
@@ -40,99 +40,57 @@ Exchange
 
 ## Experience
 
-### **TutorCruncher, Junior Developer** `2022.10 - CURRENT`
+### **Voulez-Vous App, Co-Founder & Developer** `2023.7 - CURRENT`
+- Spearheaded **Front-End Development** using **Flutter** and **Backend Development** with Python’s **FastAPI**.
+- Integrated SQL Database and YOLO **Machine Learning** models.
+- Hosted on **Google Firestore**, **Heroku**.
 
-- Working on all areas of 300,000 line codebase
-- DevOps, creating GitHub actions to test and auto-deploy
-- Creating and performing unit tests
-- Maintaining development documentation
-- Working with customer facing teams
+### **Teamwork Executive Offices, Software Engineer** `2023.2 - CURRENT`
+- Designed and developed websites and mobile apps, enhancing **user experience** and interface.
+- Integrated with **Stripe**, **iCal**, and **OAuth**.
+- Expert in **Firebase** and **Heroku** for hosting and deployment.
+
+### **TutorCruncher, Junior Developer** `2022.10 - CURRENT`
+- Contributed to a large-scale **300,000** line codebase, focusing on **DevOps** and **automated deployment** using GitHub actions.
+- Conducted **unit testing** and maintained development documentation.
 
 ### **Purple Hill Handmade, Developer & Technology Specialist** `2020.3 - CURRENT`
-
-- Creating and managing website on Wordpress
-- Managing stock with woocommerce 
-- Editing content with Adobe Creative Cloud
-- Maintaining website security and performance
+- Managed and optimized websites on WordPress & Shopify, focusing on **security** and **performance optimization**.
+- Utilized **Adobe Creative Cloud** for content creation and editing.
 
 ### **Airbnb, Airbnb Host - The Coach House** `2018.9 - CURRENT`
-
-- Super Host
+- Achieved **Super Host** status, exemplifying excellent customer service and operational efficiency.
 
 ### **Dustonmill, Web Developer & Designer** `2017.6 - CURRENT`
-
-- Creating an online presence, website.
-- Maintaining website.
-- Revamp of the website to include new mobile user-focused design.
-- Creating content, taking photos.
+- Developed and maintained the website, emphasizing **mobile responsiveness** and **user-centric design**.
 
 ### **Freelance Web Designer & Developer, Online Olive** `2018.3 - CURRENT`
-
-- Creating websites for small businesses.
-- Creating content, taking photos.
-- Maintaining websites.
-- Creating and managing social media accounts.
-- Creating and managing online stores.
-- 5 consistent clients to date.
-- Mobile user-focused design.
-- SEO.
-- Mobile App Development.
+- Specialized in **SEO optimization**, mobile user-focused design, and **e-commerce** platform management.
 
 ### **Manager, Village Shop & Post Office** `2020.11 - 2021.6`
-
-- Managing Blakesley village shop / post office.
-- Upgrading local network.
-- Automating processes.
+- Enhanced operational efficiency through **network upgrades** and **process automation**.
 
 ### **Tech Intern, Reset MSM** `2020.9 - 2021.1`
-
-- Moving early access users to the new database in preparation for the launch.
-- Helping migrate all server-side functions, databases, and hosting from Firebase to AWS with the goal of achieving a fully serverless architecture.
-- Designing UI aspects for iOS and AWS
-
-### **Web Administrator, SCU Ignatian Center** `2019.9 - 2020.3`
-
-- Web Administrator for The Ignation Centre at Santa Clara 
-- Managing all Website content for the Ignatian Center website pages and programs.
-- Using TerminalFour CMS.
-- Creating custom pages beyond the limits of TerminalFour.
-- Using Adobe Suite to curate visual content.- Web Administrator for The Ignation Centre at Santa Clara - Managing all Website content for the Ignatian Center website pages and programs. - Using TerminalFour CMS. - Creating custom pages beyond the limits of TerminalFour. - Using Adobe Suite to curate visual content.
+- Assisted in migrating server-side functions and databases from Firebase to **AWS** for a **serverless architecture**.
 
 ### **Teacher, Tech Camp** `2018.7 - 2018.8`
-
-- Running a class of 13 students aged 9-13
-- Teaching how to use CAD for laser cutters, 3D printers, and basic block coding. 
-- Learned how to teach and work with kids.
-- Learned how to communicate with parents.- Running a class of 13 students aged 9-13 - Teaching how to use CAD for laser cutters, 3D printers, and basic block coding. - Learned how to teach and work with kids. - Learned how to communicate with parents.
-
-### **Intern, Ocado Technology, Code for Life** `2018.6 - 2018.6`
-
-- Working with Code For Life initiative.
-- Initiative to teach children how to code.
-- Working with main website HTML & CSS
-- Working with game code in Python.
+- Taught **CAD** and basic **block coding** to young students, honing communication and teaching skills.
 
 ## Certifications
 
-- Open Water Diver - PADI 1404UJ0310
-- Javascript - Sololearn 1024-21810800
-- Foundations of User Experience (UX) Design
-- CG DofE Gold Award - The Duke of Edinburgh's Award 1298966
-- React.js LinkedIn skill assessment
-- HTML LinkedIn skill assessment
-- Front-End Development LinkedIn skill assessment
-- Search Engine Optimization LinkedIn skill assessment
-- Adobe Photoshop LinkedIn skill assessment
-- Wordpress LinkedIn Skill Assessment
+- **Open Water Diver** - PADI 1404UJ0310
+- **Javascript** - Sololearn 1024-21810800
+- **SEO Optimization** - LinkedIn skill assessment
+- **React.js**, **HTML**, **Front-End Development**, **Adobe Photoshop** - LinkedIn skill assessments
 
 ## Skills
 
-- C#
-- Django
-- SQL
-- React.js
-- Communication
-- Project Management
-- DevOps
-- Python
-- CAD (Solidworks)
+- **Web Development**
+- **Mobile App Development**
+- **UI/UX Design**
+- **Cloud Services**
+- **Machine Learning**
+- **Data Management**
+- **Cybersecurity**
+- **Agile Methodologies**
+- **Customer Service**
