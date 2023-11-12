@@ -15,13 +15,12 @@ homepage:
 
 ## Summary
 
-Tech enthusiast and seasoned developer with over 6 years of self-training in **Front End Development** and 3 years in **Backend Development**. Earned a First Class for BSc Computing (Hons) degree at The University of Buckingham. Adept in **Web development**, **Mobile app development**, and **UI/UX design**. Proficient in **Python**, **Flutter**, and **Javascript**.
-
+First Class Honors **Computer Science graduate** from The University of Buckingham, **skilled in software development and systems engineering**. **Proficient in Python and Javascript**, with a strong focus on **designing, building, testing, and deploying** robust services and applications. Demonstrated **expertise in CI/CD pipelines** and a track record of **creating user-centric solutions**, ready to contribute **innovative strategies** in a dynamic team environment.
 ## Education
 
 ### **University of Buckingham** `2020 - 2022.12`
 
-BSc Computing (Hons)
+BSc Computer Science (Hons)
 Grade: First Class Honors
 - Specialized in **Software Development** and **Computer Engineering**.
 
@@ -78,13 +77,15 @@ Exchange
 
 ## Certifications
 
+- **Foundations of User Experience (UX) Design** - Google UX Design Professional Certificate
 - **Open Water Diver** - PADI 1404UJ0310
 - **Javascript** - Sololearn 1024-21810800
-- **SEO Optimization** - LinkedIn skill assessment
-- **React.js**, **HTML**, **Front-End Development**, **Adobe Photoshop** - LinkedIn skill assessments
+- **React.js**, **HTML**, **Front-End Development**, **Adobe Photoshop**, **SEO Optimization** - LinkedIn skill assessments
 
 ## Skills
 
+- **DevOps**
+- **Software Development**
 - **Web Development**
 - **Mobile App Development**
 - **UI/UX Design**
